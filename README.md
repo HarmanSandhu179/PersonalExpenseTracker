@@ -5,7 +5,7 @@
 This repository contains the source code for an Expense Tracker application built using the MERN (MongoDB, Express, React, Node) stack. The application is designed to help users manage and track their expenses efficiently.
 
 
-## Image
+## Front End 
 
 ![Front End](client/images/frontpage.png)
 
