@@ -1,4 +1,4 @@
-# Pizza 64 Expense Tracker with MERN Stack
+# Personal Expense Tracker with MERN Stack
 
 ## Overview
 
